@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Fill chunk borders in flat world",
+		"name": "Test_Grid",
+		"uuid": "03359e25-5f55-4821-ac87-34e1bfef8bf5",
+		"version": [ 0,0,2 ],
+		"min_engine_version": [ 1, 19, 30 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "data",
+			"uuid": "516b261f-2007-41c8-a5d6-9964f153ceb0",
+			"version": [0, 0, 1]
+		}
+	]
+}
+
